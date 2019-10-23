@@ -28,6 +28,8 @@ If you're using results listed below for your paper or report, please cite:
 
 - **TU-Berlin**
 
+Comparison of different CNN models on the TU-Berlin dataset.
+
 |Methods|split1|split2|split3|average|
 |:-:|:-:|:-:|:-:|:-:|
 |SqueezeNet1.0|61.32|54.06|60.30|58.56|
@@ -48,7 +50,27 @@ If you're using results listed below for your paper or report, please cite:
 |DenseNet-201|79.05|78.50|79.11|78.89|
 |**DenseNet-161**|**79.85**|**79.32**|**79.48**|**79.55**|
 
+Performance comparison of existing methods on the TU-Berlin dataset.
+
+|Methods|Accuracy|
+|:-:|:-:|
+|HOG-SVM|56|
+|MKL-SVM|65.81|
+|FV-SP|68.9|
+|AlexNet|68.91|
+|SN1.0|74.9|
+|Inception V3|75.07|
+|VGG-19|75.77|
+|SN2.0|77.95|
+|DenseNet-161|79.55|
+|ResNet-152|79.69|
+|**SSDA**|**84.27**|
+---
+|Human|73.1|
+
 - **Sketchy-R**
+
+Classification results on the Sketchy-R dataset.
 
 |Methods|split1|split2|split3|average|
 |:-:|:-:|:-:|:-:|:-:|
