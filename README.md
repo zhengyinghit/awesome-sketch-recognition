@@ -2,6 +2,7 @@
 
 This project aims at providing a comprehensive performance comparison of existing methods and collecting good papers for freehand sketch recognition.
 
+<p align="center"><img width="100%" src="sketchy.jpg" /></p>
 
 ## Datasets
 
