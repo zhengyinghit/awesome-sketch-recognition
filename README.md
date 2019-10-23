@@ -17,18 +17,14 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 ## Results
 
 If you're using results listed below for your paper or report, please cite:
-
-> @article{zheng2019sketch,
-
-> title={Sketch-Specific Data Augmentation for Freehand Sketch Recognition},
-
-> author={Zheng, Ying and Yao, Hongxun and Sun, Xiaoshuai and Zhang, Shengping and Zhao, Sicheng and Porikli, Fatih},
-
-> journal={arXiv:1910.06038},
-
-> year={2019}
-
-> }
+```
+@article{zheng2019sketch,
+  title={Sketch-Specific Data Augmentation for Freehand Sketch Recognition},
+  author={Zheng, Ying and Yao, Hongxun and Sun, Xiaoshuai and Zhang, Shengping and Zhao, Sicheng and Porikli, Fatih},
+  journal={arXiv:1910.06038},
+  year={2019}
+}
+```
 
 - **TU-Berlin**
 
