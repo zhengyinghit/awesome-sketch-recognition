@@ -2,11 +2,9 @@
 
 This project aims at providing a comprehensive performance comparison of existing methods and collecting good papers for freehand sketch recognition.
 
-<p align="center"><img width="100%" src="sketchy.jpg" /></p>
+<p align="center"><img width="90%" src="sketchy.jpg" /></p>
 
 ## Datasets
-
-
 
 **TU-Berlin**
 
@@ -21,11 +19,11 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 If you're using results listed below for your paper or report, please cite:
 
 > @article{zheng2019sketch,
-  title={Sketch-Specific Data Augmentation for Freehand Sketch Recognition},
-  author={Zheng, Ying and Yao, Hongxun and Sun, Xiaoshuai and Zhang, Shengping and Zhao, Sicheng and Porikli, Fatih},
-  journal={arXiv:1910.06038},
-  year={2019}
-  }
+> title={Sketch-Specific Data Augmentation for Freehand Sketch Recognition},
+> author={Zheng, Ying and Yao, Hongxun and Sun, Xiaoshuai and Zhang, Shengping and Zhao, Sicheng and Porikli, Fatih},
+> journal={arXiv:1910.06038},
+> year={2019}
+> }
 
 - **TU-Berlin**
 
