@@ -79,6 +79,14 @@ Classification results on the Sketchy-R dataset.
 
 ## Papers
 
+- **Handcrafted**
+
+SYM-FISH: A Symmetry-aware Flip Invariant Sketch Histogram Shape Descriptor (ICCV 2013) [[paper](http://)]
+
+- **Deep learning**
+
+Sketch-a-Net that Beats Humans (BMVC 2015) [[paper](http://)]
+
 
 ## Todo
 
