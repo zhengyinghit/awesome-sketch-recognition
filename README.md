@@ -65,8 +65,7 @@ Performance comparison of existing methods on the TU-Berlin dataset.
 |DenseNet-161|79.55|
 |ResNet-152|79.69|
 |**SSDA**|**84.27**|
----
-|Human|73.1|
+|*Human*|*73.1*|
 
 - **Sketchy-R**
 
