@@ -77,39 +77,39 @@ Classification results on the Sketchy-R dataset.
 |:-:|:-:|:-:|:-:|:-:|
 |ResNet-152|92.50|92.96|93.11|92.86|
 |DenseNet-161|92.02|92.63|92.83|92.49|
-|**SSDA**|**95.39**|**95.74**|**95.57**|**95.57**|
+|**SSDA**< a href="#SSDA">[8]< /a>|**95.39**|**95.74**|**95.57**|**95.57**|
 
 ## Papers
 
 ### Handcrafted
 
-[] Building Effective Representations for Sketch Recognition (AAAI 2015) [[paper](http://)]
+[1] Building Effective Representations for Sketch Recognition (AAAI 2015) [[paper](http://)]
 
-[] Free-hand Sketch Recognition by Multi-kernel Feature Learning (CVIU 2015) [[paper](http://)]
+[2] Free-hand Sketch Recognition by Multi-kernel Feature Learning (CVIU 2015) [[paper](http://)]
 
-[] Sketch Classification and Classification-driven Analysis using Fisher Vectors (TOG 2014) [[paper](http://)]
+[3] Sketch Classification and Classification-driven Analysis using Fisher Vectors (TOG 2014) [[paper](http://)]
 
-[] Human vs. Computer in Scene and Object Recognition (CVPR 2014) [[paper](http://)]
+[4] Human vs. Computer in Scene and Object Recognition (CVPR 2014) [[paper](http://)]
 
-[] Optimizing Over Radial Kernels on Compact Manifolds (CVPR 2014) [[paper](http://)]
+[5] Optimizing Over Radial Kernels on Compact Manifolds (CVPR 2014) [[paper](http://)]
 
-[] SYM-FISH: A Symmetry-aware Flip Invariant Sketch Histogram Shape Descriptor (ICCV 2013) [[paper](http://)]
+[6] SYM-FISH: A Symmetry-aware Flip Invariant Sketch Histogram Shape Descriptor (ICCV 2013) [[paper](http://)]
 
-[] Sketch Recognition by Ensemble Matching of Structured Features (BMVC 2013) [[paper](http://)]
+[7] Sketch Recognition by Ensemble Matching of Structured Features (BMVC 2013) [[paper](http://)]
 
 ### Deep learning
 
-[] Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
+< a name="SSDA">[8]< /a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
 
-[] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
+[9] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
 
-[] SketchNet: Sketch Classification with Web Images (CVPR 2016) [[paper](http://)]
+[10] SketchNet: Sketch Classification with Web Images (CVPR 2016) [[paper](http://)]
 
-[] Enabling My Robot To Play Pictionary : Recurrent Neural Networks For Sketch Recognition (ACM MM 2016) [[paper](http://)]
+[11] Enabling My Robot To Play Pictionary : Recurrent Neural Networks For Sketch Recognition (ACM MM 2016) [[paper](http://)]
 
-[] Sketch-a-Net that Beats Humans (BMVC 2015) [[paper](http://)]
+[12] Sketch-a-Net that Beats Humans (BMVC 2015) [[paper](http://)]
 
-[] Multi-view Convolutional Neural Networks for 3D Shape Recognition (ICCV 2015) [[paper](http://)]
+[13] Multi-view Convolutional Neural Networks for 3D Shape Recognition (ICCV 2015) [[paper](http://)]
 
 ## Todo
 
