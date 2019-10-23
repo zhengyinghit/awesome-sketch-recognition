@@ -6,6 +6,8 @@ This project aims at providing a comprehensive performance comparison of existin
 
 ## Datasets
 
+Three-fold cross-validation is recommended to evaluate the recognition performance. We present three training and test splits of TU-Berlin and Sketchy datasets under the ***datasets*** directory.
+
 **TU-Berlin**
 
 The [TU-Berlin dataset](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch) has 20,000 freehand sketches collected by Amazon Mechanical Turk (AMT). All sketches are equally distributed in 250 object classes, i.e. each class has 80 sketches. After constructing the dataset, the authors conduct a human classification experiment. The result shows that human can only correctly recognize 73.1% of sketches, which demonstrates that freehand sketch recognition is a very challenging task.
