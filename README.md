@@ -36,7 +36,7 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 |DenseNet-121|77.23|76.74|76.19|76.72|
 |DenseNet-169|78.42|77.97|78.80|78.40|
 |DenseNet-201|79.05|78.50|79.11|78.89|
-**|DenseNet-161|79.85|79.32|79.48|79.55|**
+|**DenseNet-161**|**79.85**|**79.32**|**79.48**|**79.55**|
 
 - **Sketchy-R**
 
@@ -44,7 +44,7 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 |:-:|:-:|:-:|:-:|:-:|
 |ResNet-152|92.50|92.96|93.11|92.86|
 |DenseNet-161|92.02|92.63|92.83|92.49|
-**|SSDA|95.39|95.74|95.57|95.57|**
+|**SSDA**|**95.39**|**95.74**|**95.57**|**95.57**|
 
 ## Papers
 
