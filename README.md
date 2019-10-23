@@ -66,7 +66,7 @@ Performance comparison of existing methods on the TU-Berlin dataset.
 |SN2.0|77.95|
 |DenseNet-161|79.55|
 |ResNet-152|79.69|
-|**SSDA**[<a href="#SSDA">8</a>]|**84.27**|
+|**SSDA** [<a href="#SSDA">9</a>]|**84.27**|
 |*Human*|*73.1*|
 
 - **Sketchy-R**
@@ -77,7 +77,7 @@ Classification results on the Sketchy-R dataset.
 |:-:|:-:|:-:|:-:|:-:|
 |ResNet-152|92.50|92.96|93.11|92.86|
 |DenseNet-161|92.02|92.63|92.83|92.49|
-|**SSDA**[<a href="#SSDA">8</a>]|**95.39**|**95.74**|**95.57**|**95.57**|
+|**SSDA** [<a href="#SSDA">9</a>]|**95.39**|**95.74**|**95.57**|**95.57**|
 
 ## Papers
 
@@ -97,24 +97,27 @@ Classification results on the Sketchy-R dataset.
 
 [7] Sketch Recognition by Ensemble Matching of Structured Features (BMVC 2013) [[paper](http://)]
 
+[8] Query-Adaptive Shape Topic Mining for Hand-Drawn Sketch Recognition (ACM MM 2012) [[paper](http://)]
+
 ### Deep learning
 
-<a name="SSDA">[8]</a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
+<a name="SSDA">[9]</a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
 
-[9] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
+[10] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
 
-[10] SketchNet: Sketch Classification with Web Images (CVPR 2016) [[paper](http://)]
+[11] SketchNet: Sketch Classification with Web Images (CVPR 2016) [[paper](http://)]
 
-[11] Enabling My Robot To Play Pictionary : Recurrent Neural Networks For Sketch Recognition (ACM MM 2016) [[paper](http://)]
+[12] Enabling My Robot To Play Pictionary : Recurrent Neural Networks For Sketch Recognition (ACM MM 2016) [[paper](http://)]
 
-[12] Sketch-a-Net that Beats Humans (BMVC 2015) [[paper](http://)]
+[13] Sketch-a-Net that Beats Humans (BMVC 2015) [[paper](http://)]
 
-[13] Multi-view Convolutional Neural Networks for 3D Shape Recognition (ICCV 2015) [[paper](http://)]
+[14] Multi-view Convolutional Neural Networks for 3D Shape Recognition (ICCV 2015) [[paper](http://)]
 
 ## Todo
 
 - [ ] add more papers and URLs
 - [ ] add more results
+- [ ] add project links
 
 ## Contact
 
