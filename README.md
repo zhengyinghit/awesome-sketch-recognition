@@ -66,7 +66,7 @@ Performance comparison of existing methods on the TU-Berlin dataset.
 |SN2.0|77.95|
 |DenseNet-161|79.55|
 |ResNet-152|79.69|
-|**SSDA**|**84.27**|
+|**SSDA**[<a href="#SSDA">8</a>]|**84.27**|
 |*Human*|*73.1*|
 
 - **Sketchy-R**
@@ -77,7 +77,7 @@ Classification results on the Sketchy-R dataset.
 |:-:|:-:|:-:|:-:|:-:|
 |ResNet-152|92.50|92.96|93.11|92.86|
 |DenseNet-161|92.02|92.63|92.83|92.49|
-|**SSDA**< a href="#SSDA">[8]< /a>|**95.39**|**95.74**|**95.57**|**95.57**|
+|**SSDA**[<a href="#SSDA">8</a>]|**95.39**|**95.74**|**95.57**|**95.57**|
 
 ## Papers
 
@@ -99,7 +99,7 @@ Classification results on the Sketchy-R dataset.
 
 ### Deep learning
 
-< a name="SSDA">[8]< /a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
+<a name="SSDA">[8]</a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
 
 [9] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
 
