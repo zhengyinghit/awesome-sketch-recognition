@@ -16,6 +16,16 @@ The [TU-Berlin dataset](http://cybertron.cg.tu-berlin.de/eitz/projects/classifys
 The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task of sketch-based image retrieval, which consists of 75,471 sketch images unevenly distributed in 125 object classes. Among the 125 classes, there are 100 categories which also exist in the TU-Berlin dataset. Because of the mistake in the process of human drawing, there are 918 sketches marked as erroneous. The ***Sketchy-R dataset*** abandons these completely wrong samples and saves the other 74,553 sketches.
 
 ## Results
+
+If you're using results listed below for your paper or report, please cite:
+
+> @article{zheng2019sketch,
+  title={Sketch-Specific Data Augmentation for Freehand Sketch Recognition},
+  author={Zheng, Ying and Yao, Hongxun and Sun, Xiaoshuai and Zhang, Shengping and Zhao, Sicheng and Porikli, Fatih},
+  journal={arXiv:1910.06038},
+  year={2019}
+  }
+
 - **TU-Berlin**
 
 |Methods|split1|split2|split3|average|
@@ -32,7 +42,7 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 |ResNet-34|76.58|76.76|76.95|76.76|
 |ResNet-50|76.92|76.76|77.48|77.05|
 |ResNet-101|78.09|78.83|79.59|78.84|
-|ResNet-152|79.25|79.79|80.03|79.69|
+|**ResNet-152**|**79.25**|**79.79**|**80.03**|**79.69**|
 |DenseNet-121|77.23|76.74|76.19|76.72|
 |DenseNet-169|78.42|77.97|78.80|78.40|
 |DenseNet-201|79.05|78.50|79.11|78.89|
@@ -50,6 +60,7 @@ The [Sketchy dataset](http://sketchy.eye.gatech.edu/) is published for the task 
 
 
 ## Todo
+
 - [ ] add more papers
 - [ ] add evaluation metrics
 - [ ] add results on TU-Berlin and Sketchy dataset
