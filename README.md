@@ -63,7 +63,7 @@ Performance comparison of existing methods on the TU-Berlin dataset.
 |SN1.0|74.9|
 |Inception V3|75.07|
 |VGG-19|75.77|
-|SN2.0|77.95|
+|SN2.0 [<a href="#SN2">9</a>]|77.95|
 |DenseNet-161|79.55|
 |ResNet-152|79.69|
 |**SSDA** [<a href="#SSDA">9</a>]|**84.27**|
@@ -103,7 +103,7 @@ Classification results on the Sketchy-R dataset.
 
 <a name="SSDA">[9]</a> Sketch-Specific Data Augmentation for Freehand Sketch Recognition (arXiv 2019) [[paper](https://arxiv.org/pdf/1910.06038.pdf)]
 
-[10] Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](http://)]
+<a name="SN2">[10]</a> Sketch-a-Net: A Deep Neural Network that Beats Humans (IJCV 2017) [[paper](https://qmro.qmul.ac.uk/xmlui/bitstream/handle/123456789/13879/Song%20Sketch-a-Net%202016%20Accepted.pdf?sequence=1&isAllowed=y)]
 
 [11] SketchNet: Sketch Classification with Web Images (CVPR 2016) [[paper](http://)]
 
