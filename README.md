@@ -63,7 +63,7 @@ Performance comparison of existing methods on the TU-Berlin dataset.
 |SN1.0|74.9|
 |Inception V3|75.07|
 |VGG-19|75.77|
-|SN2.0 [<a href="#SN2">9</a>]|77.95|
+|SN2.0 [<a href="#SN2">10</a>]|77.95|
 |DenseNet-161|79.55|
 |ResNet-152|79.69|
 |**SSDA** [<a href="#SSDA">9</a>]|**84.27**|
